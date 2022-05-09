@@ -11,6 +11,9 @@ Posteriormente, durante o curso de CSS com SASS, foi realizada uma engenharia re
 utilizando imports para melhor organização e atualizando o sistema de grid com o uso de loops,<br>
 além do uso de variáveis de cores e mixins para as diferentes tipografias.<br>
 
+<br>
+<br>
+Você pode conferir o site clicando <a href="https://shirleynoliveiraa.github.io/bikcraft/" target="_blank">aqui</a>.
 
 
 ## 🚀 Tecnologias e ferramentas utilizadas
